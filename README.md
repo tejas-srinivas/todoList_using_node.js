@@ -11,15 +11,15 @@ In order to run this project install node modules
    npm i redux-devtools-extension
 3. Install Redux-Thunk <br>
    npm i thunk
-4. Install cors
+4. Install cors <br>
    npm i cors
-5. Install dotenv
+5. Install dotenv <br>
    npm i dotenv
-6. Install Express Server
+6. Install Express Server <br>
    npm i express
-7. Install Axios
+7. Install Axios <br>
    npm i axios
-8. Install Mongoose
+8. Install Mongoose <br>
    npm i mongoose
-9. Install nodemn (optional)
+9. Install nodemn (optional) <br>
    npm i nodemon
