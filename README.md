@@ -5,11 +5,11 @@ You need to create a cloud mongoDB database and update the url in db.js
 Express Server runs on PORT = 8000 (localhost)
 
 In order to run this project install node modules 
-1. Install React-Redux
+1. Install React-Redux <br>
    npm i react-redux
-2. Install Redux-DevTools
+2. Install Redux-DevTools <br>
    npm i redux-devtools-extension
-3. Install Redux-Thunk
+3. Install Redux-Thunk <br>
    npm i thunk
 4. Install cors
    npm i cors
