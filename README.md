@@ -1,6 +1,9 @@
 # todoList_using_node.js-CodSoft
 This is a todo-List project built MongoDB, React, Node, Express.Js
 
+Create React app:
+npm create-react-app client
+
 You need to create a cloud mongoDB database and update the url in db.js
 Express Server runs on PORT = 8000 (localhost)
 
