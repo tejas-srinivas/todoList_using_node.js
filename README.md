@@ -7,7 +7,10 @@ npm create-react-app client
 You need to create a cloud mongoDB database and update the url in db.js
 Express Server runs on PORT = 8000 (localhost)
 
-#In order to run this project install node modules 
+Also include the below attribute in package.json
+ {"main": "index.js"}
+
+In order to run this project install node modules 
 1. Install React-Redux <br>
    npm i react-redux
 2. Install Redux-DevTools <br>
