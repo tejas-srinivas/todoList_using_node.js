@@ -1,4 +1,4 @@
-# todoList_using_node.js-CodSoft
+# TodoList_using_node.js-CodSoft
 This is a todo-List project built MongoDB, React, Node, Express.Js
 
 Create React app:
@@ -7,7 +7,7 @@ npm create-react-app client
 You need to create a cloud mongoDB database and update the url in db.js
 Express Server runs on PORT = 8000 (localhost)
 
-In order to run this project install node modules 
+#In order to run this project install node modules 
 1. Install React-Redux <br>
    npm i react-redux
 2. Install Redux-DevTools <br>
